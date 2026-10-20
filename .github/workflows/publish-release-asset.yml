@@ -1,9 +1,11 @@
 name: Publicar asset da release
 
-# Fluxo de publicação dos APKs deste repositório: o APK é commitado
-# temporariamente num branch (pasta apk/) e este workflow, disparado
-# manualmente a partir desse branch, anexa o arquivo à release da tag
-# indicada usando o token do próprio repositório.
+# Fluxo de publicação dos APKs deste repositório: o APK chega fatiado
+# em pedaços (pasta apk-parts/, por causa do limite de tamanho da API
+# do GitHub) num branch temporário; este workflow, disparado
+# manualmente a partir desse branch, remonta o arquivo, confere o
+# sha256 e anexa à release da tag indicada usando o token do próprio
+# repositório.
 on:
   workflow_dispatch:
     inputs:
@@ -11,7 +13,10 @@ on:
         description: "Tag da release (ex.: v1.2)"
         required: true
       file:
-        description: "Caminho do APK no branch (ex.: apk/tibiatools-flutter-v1.2.apk)"
+        description: "Nome do asset final (ex.: tibiatools-flutter-v1.2.apk)"
+        required: true
+      sha256:
+        description: "sha256 esperado do arquivo remontado"
         required: true
 
 permissions:
@@ -22,7 +27,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Remontar o APK e conferir o sha256
+        run: |
+          mkdir -p out
+          cat apk-parts/part-* > "out/${{ inputs.file }}"
+          echo "${{ inputs.sha256 }}  out/${{ inputs.file }}" | sha256sum -c -
+          ls -l out
       - name: Anexar o APK à release
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release upload "${{ inputs.tag }}" "${{ inputs.file }}" --repo "$GITHUB_REPOSITORY" --clobber
+        run: gh release upload "${{ inputs.tag }}" "out/${{ inputs.file }}" --repo "$GITHUB_REPOSITORY" --clobber
