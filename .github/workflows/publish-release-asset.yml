@@ -1,0 +1,28 @@
+name: Publicar asset da release
+
+# Fluxo de publicação dos APKs deste repositório: o APK é commitado
+# temporariamente num branch (pasta apk/) e este workflow, disparado
+# manualmente a partir desse branch, anexa o arquivo à release da tag
+# indicada usando o token do próprio repositório.
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag da release (ex.: v1.2)"
+        required: true
+      file:
+        description: "Caminho do APK no branch (ex.: apk/tibiatools-flutter-v1.2.apk)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Anexar o APK à release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ inputs.tag }}" "${{ inputs.file }}" --repo "$GITHUB_REPOSITORY" --clobber
