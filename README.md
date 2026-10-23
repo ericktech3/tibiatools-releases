@@ -3,11 +3,17 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.2-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.9-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
+
+## 🆕 Novidades
+
+- 🎨 **Visual novo (1.9)** — ícone e pré-splash novos: um brasão com dragão e elmo de cavaleiro, os dois de olhos vermelhos. [**Baixar a v1.9**](https://github.com/ericktech3/tibiatools-releases/releases/tag/v1.9)
+- 🔔 **Alertas de guild separados (1.8)** — cada guild favorita avisa quando membros **logarem**, quando **morrerem**, ou os dois — e a notificação traz o nome da guild
+- 🔄 **Atualização pelo próprio app (1.7)** — o app avisa na Home quando sai versão nova e instala sem você sair dele
 
 ---
 
@@ -39,7 +45,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Busca e ficha completa da guild, com membros online agora
 - Ranking de membros por level e estatísticas da guild
 - **Bosses mortos ontem** no seu mundo
-- Guilds favoritas com alerta quando um membro ficar online
+- **Guilds favoritas com alertas separados** — online e mortes independentes, com o nome da guild em cada notificação
 
 ### 🏆 Rankings e mundo
 - **Top do servidor** (highscores) por categoria
