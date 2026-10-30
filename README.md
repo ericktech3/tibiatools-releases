@@ -3,7 +3,7 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.9-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.10-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
@@ -11,6 +11,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
+- 📡 **Fim das duplicatas + servidor-primário (1.10)** — o monitor local relê o dedupe a cada ciclo (fim do post ~3 min depois do push) e o card atualizado não apita de novo; com o servidor saudável, os avisos de online, level e morte ao vivo chegam em segundos via push, com o monitor local de reserva
 - 🎨 **Visual novo (1.9)** — ícone e pré-splash novos: um brasão com dragão e elmo de cavaleiro, os dois de olhos vermelhos. [**Baixar a v1.9**](https://github.com/ericktech3/tibiatools-releases/releases/tag/v1.9)
 - 🔔 **Alertas de guild separados (1.8)** — cada guild favorita avisa quando membros **logarem**, quando **morrerem**, ou os dois — e a notificação traz o nome da guild
 - 🔄 **Atualização pelo próprio app (1.7)** — o app avisa na Home quando sai versão nova e instala sem você sair dele
