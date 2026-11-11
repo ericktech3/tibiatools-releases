@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.0-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.0.1-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🖼️ **Sprite no detalhe da Enciclopédia (2.0.1)** — corrigido: a sprite do item aparecia na lista mas o detalhe ficava sem. O detalhe agora usa a mesma sprite da lista
 
 - 📖 **Enciclopédia de Itens (2.0)** — nova aba em "Mais": todos os itens do Tibia separados por tipo, como na TibiaWiki, com sprite, busca e detalhe completo (atributos, de quais criaturas dropa e de quais NPCs se compra/vende). Fonte: TibiaWiki BR com fallback Fandom, cache de 24h
 - 📦 **Dependências atualizadas + TibiaData v5 (2.0)** — fim dos avisos do build e o app já fala com a API v5 (a v4 desliga em 31/12/2026)
