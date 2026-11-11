@@ -3,7 +3,7 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.10-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.0-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
@@ -11,6 +11,8 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
+- 📖 **Enciclopédia de Itens (2.0)** — nova aba em "Mais": todos os itens do Tibia separados por tipo, como na TibiaWiki, com sprite, busca e detalhe completo (atributos, de quais criaturas dropa e de quais NPCs se compra/vende). Fonte: TibiaWiki BR com fallback Fandom, cache de 24h
+- 📦 **Dependências atualizadas + TibiaData v5 (2.0)** — fim dos avisos do build e o app já fala com a API v5 (a v4 desliga em 31/12/2026)
 - 📡 **Fim das duplicatas + servidor-primário (1.10)** — o monitor local relê o dedupe a cada ciclo (fim do post ~3 min depois do push) e o card atualizado não apita de novo; com o servidor saudável, os avisos de online, level e morte ao vivo chegam em segundos via push, com o monitor local de reserva
 - 🎨 **Visual novo (1.9)** — ícone e pré-splash novos: um brasão com dragão e elmo de cavaleiro, os dois de olhos vermelhos. [**Baixar a v1.9**](https://github.com/ericktech3/tibiatools-releases/releases/tag/v1.9)
 - 🔔 **Alertas de guild separados (1.8)** — cada guild favorita avisa quando membros **logarem**, quando **morrerem**, ou os dois — e a notificação traz o nome da guild
@@ -58,6 +60,10 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Monitor em tempo real com notificações de online, level up e morte
 - **Widget na tela inicial** com seus favoritos
 - Backup dos favoritos: exporte e importe quando trocar de aparelho
+
+### 📖 Enciclopédia de Itens
+- Todos os itens do Tibia separados por tipo, como na TibiaWiki
+- Sprite, busca por nome e detalhe completo: atributos, **"Dropa de"** (criaturas) e **"Compra de / Vende para"** (NPCs)
 
 ---
 
