@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.0.1-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.0.2-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🖼️ **Sprites nas linhas + 4 abas corrigidas (2.0.2)** — "Dropa de", "Compra de" e "Vende para" agora mostram a sprite da criatura/NPC; valores do detalhe em português (sim/não, vocações, Negociável); corrigido: as abas Amuletos e Colares, Comidas, Itens de Addons e Itens de Imbuements estavam vazias
 
 - 🖼️ **Sprite no detalhe da Enciclopédia (2.0.1)** — corrigido: a sprite do item aparecia na lista mas o detalhe ficava sem. O detalhe agora usa a mesma sprite da lista
 
