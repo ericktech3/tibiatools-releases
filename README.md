@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.2.1-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.2.2-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🎴 **Card do Boosted mais compacto (2.2.2)** — o card herói da Home ficou ~14% mais baixo: menos espaço entre a criatura e o boss do dia e padding interno reduzido; sprites grandes (88px), fundo tonal e botão de atualizar continuam iguais
 
 - 🏠 **Home nova (2.2.1)** — a Home foi redesenhada: Boosted em destaque (criatura e boss do dia em tamanho grande, com fundo tonal), seção Hoje com o essencial do dia (resumo da manhã, contagem regressiva pro server save e próximo evento com contagem), última notícia e leilão seguido (casa, lance atual e tempo restante)
 
