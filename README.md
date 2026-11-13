@@ -3,7 +3,7 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.0-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.1-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
@@ -11,7 +11,9 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
-- ⚔️ **Hunts da party e da guild (2.3.0)** — o Hunt Analyzer agora lê os blocos por membro do Session Data e salva a hunt no servidor; novas abas "Hunts da Party" (última hunt, comparativo com a anterior e acumulado) e "Hunts da Guild" (ranking de profit e XP); as mesmas hunts podem ser coladas e consultadas no site https://hunts.tibiatools.online/
+- 🔗 **Achievements de volta + "Ver no site" (2.3.1)** — a seção de achievements na ficha do char voltou a mostrar os pontos e a lista; botão "Ver no site" nas telas de Hunt, party e guild abrindo o site https://hunts.tibiatools.online/ (agora com HTTPS, sem aviso de conexão insegura); no site, tocar numa transferência copia o comando do banco
+
+- ⚔️ **Hunts da party e da guild (2.3.0)** — o Hunt Analyzer agora lê os blocos por membro do Session Data e salva a hunt no servidor; novas abas "Hunts da Party" (última hunt, comparativo com a anterior e acumulado) e "Hunts da Guild" (ranking de profit e XP); as mesmas hunts podem ser coladas e consultadas no site https://hunts.tibiatools.online/ — e o que é colado no site aparece no app (e vice-versa)
 
 - 🏠 **Home redesenhada (2.2.3)** — carrossel com as 5 notícias mais recentes, faixa de eventos com contagem, jogadores online agora (total de todos os mundos) e Boosted lado a lado (criatura e boss do dia em dois cards, no lugar do card herói); seção Hoje com resumo da manhã e server save, e último char com ícone da vocação
 
@@ -64,7 +66,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Cole o Session Data da party no Hunt Analyzer e salve a hunt no servidor
 - **Hunts da Party**: última hunt, comparativo com a anterior e acumulado (dia, semana, mês, melhor)
 - **Hunts da Guild**: ranking de profit e de XP (30 dias) por membro
-- Site para colar no PC: https://hunts.tibiatools.online/
+- Site para colar no PC: https://hunts.tibiatools.online/ — com botão "Ver no site" no app e, no site, toque numa transferência para copiar o comando do banco
 
 ### 🏰 Guilds
 - Busca e ficha completa da guild, com membros online agora
