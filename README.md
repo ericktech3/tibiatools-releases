@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.2.3-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.0-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- ⚔️ **Hunts da party e da guild (2.3.0)** — o Hunt Analyzer agora lê os blocos por membro do Session Data e salva a hunt no servidor; novas abas "Hunts da Party" (última hunt, comparativo com a anterior e acumulado) e "Hunts da Guild" (ranking de profit e XP); as mesmas hunts podem ser coladas e consultadas no site http://hunts.tibiatools.online:8080/
 
 - 🏠 **Home redesenhada (2.2.3)** — carrossel com as 5 notícias mais recentes, faixa de eventos com contagem, jogadores online agora (total de todos os mundos) e Boosted lado a lado (criatura e boss do dia em dois cards, no lugar do card herói); seção Hoje com resumo da manhã e server save, e último char com ícone da vocação
 
@@ -57,6 +59,12 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ### 🤝 Share XP
 - Calculadora da faixa de level para compartilhar experiência na party
+
+### ⚔️ Hunts da party e da guild
+- Cole o Session Data da party no Hunt Analyzer e salve a hunt no servidor
+- **Hunts da Party**: última hunt, comparativo com a anterior e acumulado (dia, semana, mês, melhor)
+- **Hunts da Guild**: ranking de profit e de XP (30 dias) por membro
+- Site para colar no PC: http://hunts.tibiatools.online:8080/
 
 ### 🏰 Guilds
 - Busca e ficha completa da guild, com membros online agora
