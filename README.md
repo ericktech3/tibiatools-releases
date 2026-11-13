@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.2-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.2.1-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🏠 **Home nova (2.2.1)** — a Home foi redesenhada: Boosted em destaque (criatura e boss do dia em tamanho grande, com fundo tonal), seção Hoje com o essencial do dia (resumo da manhã, contagem regressiva pro server save e próximo evento com contagem), última notícia e leilão seguido (casa, lance atual e tempo restante)
 
 - 🔔 **Avisos de eventos, Mundos e leilão de casa (2.2)** — o app avisa quando um evento começa (Double XP, Rapid Respawn, Double Loot e Double Daily Reward), na véspera e no dia, às 09:00; nova aba Mundos em "Mais" (jogadores online, PvP, localização, selo Premium/Experimental e detalhe com recorde); sino para seguir leilão de casa (avisa lance coberto, fim próximo e encerramento); histórico do char ("Já se chamou" e "Já morou em"); imagens dentro das notícias e aviso de notícia nova; servidor pelo nome (tibiatools.duckdns.org), então push e backup não dependem mais do IP fixo
 
