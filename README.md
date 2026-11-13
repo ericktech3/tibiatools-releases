@@ -11,7 +11,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
-- ⚔️ **Hunts da party e da guild (2.3.0)** — o Hunt Analyzer agora lê os blocos por membro do Session Data e salva a hunt no servidor; novas abas "Hunts da Party" (última hunt, comparativo com a anterior e acumulado) e "Hunts da Guild" (ranking de profit e XP); as mesmas hunts podem ser coladas e consultadas no site http://hunts.tibiatools.online:8080/
+- ⚔️ **Hunts da party e da guild (2.3.0)** — o Hunt Analyzer agora lê os blocos por membro do Session Data e salva a hunt no servidor; novas abas "Hunts da Party" (última hunt, comparativo com a anterior e acumulado) e "Hunts da Guild" (ranking de profit e XP); as mesmas hunts podem ser coladas e consultadas no site https://hunts.tibiatools.online/
 
 - 🏠 **Home redesenhada (2.2.3)** — carrossel com as 5 notícias mais recentes, faixa de eventos com contagem, jogadores online agora (total de todos os mundos) e Boosted lado a lado (criatura e boss do dia em dois cards, no lugar do card herói); seção Hoje com resumo da manhã e server save, e último char com ícone da vocação
 
@@ -64,7 +64,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Cole o Session Data da party no Hunt Analyzer e salve a hunt no servidor
 - **Hunts da Party**: última hunt, comparativo com a anterior e acumulado (dia, semana, mês, melhor)
 - **Hunts da Guild**: ranking de profit e de XP (30 dias) por membro
-- Site para colar no PC: http://hunts.tibiatools.online:8080/
+- Site para colar no PC: https://hunts.tibiatools.online/
 
 ### 🏰 Guilds
 - Busca e ficha completa da guild, com membros online agora
