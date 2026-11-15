@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.1-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.2-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 💰 **Copiar comando, ícones de magia e filtros de casas (2.3.2)** — tocar numa transferência em Hunts da Party copia o comando do banco (`transfer 3333440 to Mavoca`) para colar no jogo; a lista de Magias agora mostra o ícone de cada magia; a lista de casas filtra por Todas, Alugadas, Em leilão e Guildhall; typo "Hit Crítco" corrigido para "Hit Crítico" nos imbuements
 
 - 🔗 **Achievements de volta + "Ver no site" (2.3.1)** — a seção de achievements na ficha do char voltou a mostrar os pontos e a lista; botão "Ver no site" nas telas de Hunt, party e guild abrindo o site https://hunts.tibiatools.online/ (agora com HTTPS, sem aviso de conexão insegura); no site, tocar numa transferência copia o comando do banco
 
