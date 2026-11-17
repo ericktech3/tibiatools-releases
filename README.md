@@ -11,6 +11,8 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
+- 🏠 **Filtros de casas combináveis (em breve)** — os filtros de casas passam a combinar: Alugadas e Em leilão juntas, Guildhall junto com um status (só guildhalls alugados, por exemplo); e o seletor de cidade ganha "Todas as cidades", que busca as 15 cidades de uma vez mostrando a cidade em cada casa
+
 - 💰 **Copiar comando, ícones de magia e filtros de casas (2.3.2)** — tocar numa transferência em Hunts da Party copia o comando do banco (`transfer 3333440 to Mavoca`) para colar no jogo; a lista de Magias agora mostra o ícone de cada magia; a lista de casas filtra por Todas, Alugadas, Em leilão e Guildhall; typo "Hit Crítco" corrigido para "Hit Crítico" nos imbuements
 
 - 🔗 **Achievements de volta + "Ver no site" (2.3.1)** — a seção de achievements na ficha do char voltou a mostrar os pontos e a lista; botão "Ver no site" nas telas de Hunt, party e guild abrindo o site https://hunts.tibiatools.online/ (agora com HTTPS, sem aviso de conexão insegura); no site, tocar numa transferência copia o comando do banco
