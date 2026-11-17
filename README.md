@@ -3,7 +3,7 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.2-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.3-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
@@ -11,7 +11,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 
 ## 🆕 Novidades
 
-- 🏠 **Filtros de casas combináveis (em breve)** — os filtros de casas passam a combinar: Alugadas e Em leilão juntas, Guildhall junto com um status (só guildhalls alugados, por exemplo); e o seletor de cidade ganha "Todas as cidades", que busca as 15 cidades de uma vez mostrando a cidade em cada casa
+- 🛡️ **Crashlytics, Enciclopédia com último dado bom e filtros de casas combináveis (2.3.3)** — crashes não tratados agora vão para o Firebase Crashlytics; itens e criaturas mostram o último dado bom quando a rede falha (o detalhe da criatura e o complemento do Fandom também ganharam cache); os filtros de casas agora combinam (Alugadas e Em leilão juntas, Guildhall junto com um status) e o seletor de cidade ganhou "Todas as cidades", que busca as 15 cidades de uma vez mostrando a cidade em cada casa
 
 - 💰 **Copiar comando, ícones de magia e filtros de casas (2.3.2)** — tocar numa transferência em Hunts da Party copia o comando do banco (`transfer 3333440 to Mavoca`) para colar no jogo; a lista de Magias agora mostra o ícone de cada magia; a lista de casas filtra por Todas, Alugadas, Em leilão e Guildhall; typo "Hit Crítco" corrigido para "Hit Crítico" nos imbuements
 
