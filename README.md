@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.3-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.4-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🏠 **Home personalizável e ranking do Top numerado (2.3.4)** — "Personalizar início" (botão de ajuste na saudação da Home ou no "Mais"): escolha o que aparece na Home e arraste para mudar a ordem das seções; o que estiver desligado fica oculto. O ranking do Top agora mostra 1, 2, 3... na lista exibida, em vez do rank global que pulava com o filtro de vocação
 
 - 🛡️ **Crashlytics, Enciclopédia com último dado bom e filtros de casas combináveis (2.3.3)** — crashes não tratados agora vão para o Firebase Crashlytics; itens e criaturas mostram o último dado bom quando a rede falha (o detalhe da criatura e o complemento do Fandom também ganharam cache); os filtros de casas agora combinam (Alugadas e Em leilão juntas, Guildhall junto com um status) e o seletor de cidade ganhou "Todas as cidades", que busca as 15 cidades de uma vez mostrando a cidade em cada casa
 
@@ -79,7 +81,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - **Guilds favoritas com alertas separados** — online e mortes independentes, com o nome da guild em cada notificação
 
 ### 🏆 Rankings e mundo
-- **Top do servidor** (highscores) por categoria
+- **Top do servidor** (highscores) por categoria, numerado 1, 2, 3... na lista exibida
 - **Boosted creature** e **boosted boss** do dia
 - Rashid, eventos e informações do mundo
 
