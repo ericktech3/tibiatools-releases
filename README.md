@@ -73,6 +73,7 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - **Hunts da Party**: última hunt, comparativo com a anterior e acumulado (dia, semana, mês, melhor)
 - **Hunts da Guild**: ranking de profit e de XP (30 dias) por membro
 - Site para colar no PC: https://hunts.tibiatools.online/ — com botão "Ver no site" no app e, no site, toque numa transferência para copiar o comando do banco
+- **Histórico no site**: aba "Histórico" com todas as hunts salvas (data, duração, party, loot, balance, XP/h, profit/h), filtros por membro/período/resultado, recordes (melhor profit/h, melhor XP/h, maior loot, hunt mais longa), comparação de duas hunts lado a lado e link direto por hunt (hunts.tibiatools.online/hunts/&lt;id&gt;)
 
 ### 🏰 Guilds
 - Busca e ficha completa da guild, com membros online agora
