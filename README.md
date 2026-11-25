@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.5-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.6-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🖼️ **Ícones dos Charms embutidos (2.3.6)** — as imagens dos 25 charms agora vêm dentro do APK: antes eram baixadas do TibiaWiki BR, que bloqueava o carregamento, e a tela mostrava só o ícone genérico. A aba Charms agora é 100% offline, igual aos dados
 
 - 🛡️ **Blessings, Charms, casas na ficha e mortes recentes (2.3.5)** — nova calculadora de Blessings (custo de 5 regulares, 7, 7 + Twist of Fate e Inquisição pelo level); referência offline dos 25 charms (14 Majors + 11 Minors) com efeito e custo por estágio, busca e filtros; a ficha do char agora mostra as casas do personagem (nome, cidade e até quando está paga) com detalhe ao tocar; Boosted clicável (toque na criatura abre o detalhe na Enciclopédia, toque no boss pergunta se abre o wiki); e mortes recentes na tela de Favoritos (últimas 5 por favorito) e no detalhe da guild (últimas 20 + resumo)
 
