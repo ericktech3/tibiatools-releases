@@ -3,13 +3,15 @@
 **Seu companheiro completo para Tibia — direto no bolso.**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.4-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.5-blue?style=for-the-badge)
 ![Grátis](https://img.shields.io/badge/100%25-gr%C3%A1tis-success?style=for-the-badge)
 ![Sem anúncios](https://img.shields.io/badge/sem-an%C3%BAncios-success?style=for-the-badge)
 
 O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consulta todo dia: ficha de personagens, histórico de experiência, guilds, rankings, boosted do dia e um monitor de favoritos que te avisa na hora em que algo acontece.
 
 ## 🆕 Novidades
+
+- 🛡️ **Blessings, Charms, casas na ficha e mortes recentes (2.3.5)** — nova calculadora de Blessings (custo de 5 regulares, 7, 7 + Twist of Fate e Inquisição pelo level); referência offline dos 25 charms (14 Majors + 11 Minors) com efeito e custo por estágio, busca e filtros; a ficha do char agora mostra as casas do personagem (nome, cidade e até quando está paga) com detalhe ao tocar; Boosted clicável (toque na criatura abre o detalhe na Enciclopédia, toque no boss pergunta se abre o wiki); e mortes recentes na tela de Favoritos (últimas 5 por favorito) e no detalhe da guild (últimas 20 + resumo)
 
 - 🏠 **Home personalizável e ranking do Top numerado (2.3.4)** — "Personalizar início" (botão de ajuste na saudação da Home ou no "Mais"): escolha o que aparece na Home e arraste para mudar a ordem das seções; o que estiver desligado fica oculto. O ranking do Top agora mostra 1, 2, 3... na lista exibida, em vez do rank global que pulava com o filtro de vocação
 
@@ -61,12 +63,17 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Ficha completa: level, vocação, mundo, residência, guild e conquistas
 - **Histórico de XP dos últimos 14 dias**, com total, média diária e melhor dia
 - Mortes recentes **com a imagem da criatura** que matou
+- **Casas do personagem** (nome, cidade e até quando está paga), com detalhe ao tocar
 - Últimas mortes e histórico de nomes/mundos anteriores
 - **Comparar dois personagens** lado a lado
 - **Compartilhar a ficha** do personagem
 
 ### 🤝 Share XP
 - Calculadora da faixa de level para compartilhar experiência na party
+
+### 🛡️ Blessings e Charms
+- **Calculadora de Blessings**: custo de 5 regulares, 7, 7 + Twist of Fate e Inquisição pelo level (valores do TibiaWiki)
+- **Charms (offline)**: os 25 charms com efeito e custo por estágio, busca e filtros por classe e papel, e a caixa "Como funciona" com as regras
 
 ### ⚔️ Hunts da party e da guild
 - Cole o Session Data da party no Hunt Analyzer e salve a hunt no servidor
@@ -80,15 +87,17 @@ O **Tibia Tools** reúne num app só, leve e rápido, tudo o que o jogador consu
 - Ranking de membros por level e estatísticas da guild
 - **Bosses mortos ontem** no seu mundo
 - **Guilds favoritas com alertas separados** — online e mortes independentes, com o nome da guild em cada notificação
+- **Mortes recentes no detalhe da guild** (últimas 20 + resumo de mortes e levels perdidos)
 
 ### 🏆 Rankings e mundo
 - **Top do servidor** (highscores) por categoria, numerado 1, 2, 3... na lista exibida
-- **Boosted creature** e **boosted boss** do dia
+- **Boosted creature** e **boosted boss** do dia — toque na criatura abre o detalhe na Enciclopédia, toque no boss pergunta se abre o wiki
 - Rashid, eventos e informações do mundo
 
 ### ⭐ Favoritos
 - Salve personagens e guilds favoritos
 - Monitor em tempo real com notificações de online, level up e morte
+- **Mortes recentes de cada favorito** (últimas 5, com level e "há quanto tempo")
 - **Widget na tela inicial** com seus favoritos
 - Backup dos favoritos: exporte e importe quando trocar de aparelho
 
